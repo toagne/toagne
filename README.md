@@ -1,4 +1,4 @@
-# Hello, I'm Marco! 👋
+# Hi there! 👋
 
 I'm a software developer who enjoys working on C and other low-level programming languages.
 
