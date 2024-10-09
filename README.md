@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hello, I'm Marco! 👋
 
+I'm a software developer who enjoys working on C and other low-level programming languages.
+
+![C Badge](https://img.shields.io/badge/language-C-blue)
 <!--
 **toagne/toagne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
