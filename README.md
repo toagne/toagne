@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a software developer who enjoys working on C and other low-level programming languages.
+I'm a student at Hive Helsinki. Currently i am studying C and C++.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </p>
