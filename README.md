@@ -1,9 +1,17 @@
 # Hi there! 👋
 
-I'm a student at Hive Helsinki. Currently I am learning C and C++.
+I'm Marco, a student at Hive Helsinki. Currently I finished my study plan and now I am looking for some job opportunities.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </p>
+## 🛠️ Technologies & Tools
+<p align="left">          
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,html,css,nodejs,react,sqlite,docker,nginx,github,git,bash,linux,vscode,vim&perline=10" />
+</p>
+
+## 📫 Get in Touch
+Linkedin: [Linkedin](https://www.linkedin.com/in/marco-pellegrini-539405245/)
+
+## 📈 GitHub Stats
+![Your Name’s GitHub stats](https://github-readme-stats.vercel.app/api?username=toagne&show_icons=true&theme=dark)
 <!--
 **toagne/toagne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
